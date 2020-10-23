@@ -1,0 +1,49 @@
+{
+    "editor.suggestSelection": "first",
+    "vsintellicode.modify.editor.suggestSelection": "automaticallyOverrodeDefaultValue",
+    "eslint.alwaysShowStatus": true,
+    "eslint.lintTask.enable": true,
+    "workbench.colorTheme": "Night Owl",
+    "explorer.confirmDelete": false,
+    "editor.codeActionsOnSave": {
+        "source.fixAll.eslint": true
+    },
+    "eslint.validate": ["javascript"],
+    "editor.formatOnSave": true,
+    "eslint.debug": true,
+    "eslint.quiet": true,
+    "files.autoSave": "afterDelay",
+    "editor.largeFileOptimizations": false,
+    "editor.fontSize": 15,
+    "eslint.format.enable": true,
+    "explorer.confirmDragAndDrop": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "workbench.iconTheme": "file-icons",
+    "editor.tabSize": 2,
+    "azure.ppe": {
+        "portalUrl": "https://tf-server.sestek.com.tr/tfs/Sestek"
+    },
+    "git.autofetch": true,
+    "[git-commit]": {
+        "editor.rulers": [
+            72
+        ],
+        "workbench.editor.restoreViewState": false
+    },
+    "editor.formatOnPaste": true,
+    "editor.formatOnType": true,
+    "html.format.indentInnerHtml": true,
+    "javascript.format.insertSpaceAfterConstructor": true,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingTemplateStringBraces": true,
+    "typescript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBraces": false,
+    "html.format.endWithNewline": true,
+    "html.format.wrapLineLength": 150,
+    "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
+    "typescript.format.insertSpaceAfterConstructor": true,
+    "typescript.format.insertSpaceAfterTypeAssertion": true,
+    "[shellscript]": {
+    
+        "files.eol": "\n"
+    }
+}
