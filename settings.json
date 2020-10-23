@@ -21,14 +21,9 @@
     "typescript.updateImportsOnFileMove.enabled": "always",
     "workbench.iconTheme": "file-icons",
     "editor.tabSize": 2,
-    "azure.ppe": {
-        "portalUrl": "https://tf-server.sestek.com.tr/tfs/Sestek"
-    },
     "git.autofetch": true,
     "[git-commit]": {
-        "editor.rulers": [
-            72
-        ],
+        "editor.rulers": [72],
         "workbench.editor.restoreViewState": false
     },
     "editor.formatOnPaste": true,
@@ -42,8 +37,4 @@
     "javascript.format.insertSpaceAfterOpeningAndBeforeClosingNonemptyBrackets": true,
     "typescript.format.insertSpaceAfterConstructor": true,
     "typescript.format.insertSpaceAfterTypeAssertion": true,
-    "[shellscript]": {
-    
-        "files.eol": "\n"
-    }
 }
